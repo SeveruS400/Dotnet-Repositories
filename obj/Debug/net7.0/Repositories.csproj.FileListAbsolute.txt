@@ -1,0 +1,17 @@
+D:\Projects\AdetsisV3\Repositories\bin\Debug\net7.0\Repositories.deps.json
+D:\Projects\AdetsisV3\Repositories\bin\Debug\net7.0\Repositories.dll
+D:\Projects\AdetsisV3\Repositories\bin\Debug\net7.0\Repositories.pdb
+D:\Projects\AdetsisV3\Repositories\bin\Debug\net7.0\Entities.dll
+D:\Projects\AdetsisV3\Repositories\bin\Debug\net7.0\Entities.pdb
+D:\Projects\AdetsisV3\Repositories\obj\Debug\net7.0\Repositories.csproj.AssemblyReference.cache
+D:\Projects\AdetsisV3\Repositories\obj\Debug\net7.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AdetsisV3\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfoInputs.cache
+D:\Projects\AdetsisV3\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfo.cs
+D:\Projects\AdetsisV3\Repositories\obj\Debug\net7.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Projects\AdetsisV3\Repositories\obj\Debug\net7.0\Repositories.csproj.CopyComplete
+D:\Projects\AdetsisV3\Repositories\obj\Debug\net7.0\Repositories.dll
+D:\Projects\AdetsisV3\Repositories\obj\Debug\net7.0\refint\Repositories.dll
+D:\Projects\AdetsisV3\Repositories\obj\Debug\net7.0\Repositories.pdb
+D:\Projects\AdetsisV3\Repositories\obj\Debug\net7.0\ref\Repositories.dll
+D:\Projects\AdetsisV3\Repositories\bin\Debug\net7.0\Repositories.runtimeconfig.json
+D:\Projects\AdetsisV3\Repositories\obj\Debug\net7.0\Repositories.genruntimeconfig.cache
