@@ -21,6 +21,8 @@ appsettings.json
 ---------------------------------------------------------------
 Controller
 
+private readonly IRepositoryManager _manager;
+
 var users= _manager.User.GetAll(false);
 ---------------------------------------------------------------
 View
@@ -38,3 +40,4 @@ View
     }
 </div>
 ---------------------------------------------------------------
+add-migrations gelmezse Microsoft.EntityFrameworkCore.Tools indir
