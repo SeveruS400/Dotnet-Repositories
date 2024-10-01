@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace Repositories.Contracts
 {
@@ -12,8 +7,11 @@ namespace Repositories.Contracts
         IQueryable<T> GetAll(bool trackChanges);
         Task<T> GetByIdAsync(int Id);
         Task CreateAsync(T entity);
+        Task CreateAsyncList(List<T> entities);
+
         Task UpdateAsync(int Id,T entity);
         Task<bool> DeleteAsync(int Id);
+        Task<bool> DeleteAllAsync();
 
     }
 }

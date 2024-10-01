@@ -1,13 +1,14 @@
-﻿using Entities.Models;
-
+﻿
+using Entities.Models;
 
 namespace Repositories.Contracts
 {
-    public interface IUserRepository : IRepositoryBase<User>
+    public interface IUserRepository: IRepositoryBase<Users>
     {
-        IQueryable<User> GetAllUsers(bool trackChanges);
-        IQueryable<User> GetUser(int id);
-
-
+        Task<Users> GetUser(int Id);
+        Task<Users> GetUserbyName(string name);
+        Task<Users> GetUserByEmail(string email);
+        Task<Users> Login(string email);
+        Task<Users> Register(Users user);
     }
 }

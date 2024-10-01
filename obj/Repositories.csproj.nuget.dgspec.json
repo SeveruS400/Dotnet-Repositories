@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\AdetsisV3\\Repositories\\Repositories.csproj": {}
+    "D:\\Projects\\araba_al_sat\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\AdetsisV3\\Entities\\Entities.csproj": {
+    "D:\\Projects\\araba_al_sat\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\AdetsisV3\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Projects\\araba_al_sat\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Projects\\AdetsisV3\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Projects\\araba_al_sat\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\MFK\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\AdetsisV3\\Entities\\obj\\",
+        "outputPath": "D:\\Projects\\araba_al_sat\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MFK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[7.0.12, )"
             }
           },
           "imports": [
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Projects\\AdetsisV3\\Repositories\\Repositories.csproj": {
+    "D:\\Projects\\araba_al_sat\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\AdetsisV3\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\Projects\\araba_al_sat\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\Projects\\AdetsisV3\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\Projects\\araba_al_sat\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\MFK\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\AdetsisV3\\Repositories\\obj\\",
+        "outputPath": "D:\\Projects\\araba_al_sat\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MFK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\AdetsisV3\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Projects\\AdetsisV3\\Entities\\Entities.csproj"
+              "D:\\Projects\\araba_al_sat\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Projects\\araba_al_sat\\Entities\\Entities.csproj"
               }
             }
           }
@@ -107,17 +107,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[7.0.12, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
             }
           },
           "imports": [
